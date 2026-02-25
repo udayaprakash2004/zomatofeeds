@@ -1,4 +1,3 @@
-Code : 
 # FeedBack analyser
 
 
